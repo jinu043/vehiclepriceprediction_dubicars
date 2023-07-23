@@ -1,0 +1,2292 @@
+vehicle_name,model,vehicle_type,model_year,fuel_type,mileage,spec,price
+toyota,Coaster,Bus,2023,Diesel,0,GCC,191000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,323000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,100000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,97000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,160000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,Import,159000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,290000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,Import,145000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,126000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,165000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,89000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,Import,138000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,Import,193000
+toyota,Hiace,Van,2023,Diesel,0,GCC,128000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,110000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,350000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,330000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,345000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,245000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,375000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,78,Import,460000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,232000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,149000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,56000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,86000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,389000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,109000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,108000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,345000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,93500
+toyota,Crown,Sedan,2023,Hybrid,0,GCC,180000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,142000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,170000
+toyota,Hiace,Van,2023,Diesel,0,Import,145000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,266000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,365000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,263000
+toyota,Prado,SUV/Crossover,2022,Diesel,0,Import,216500
+toyota,Crown,Sedan,2023,Hybrid,0,GCC,182000
+toyota,Land Cruiser,SUV/Crossover,2021,Gasoline,0,GCC,355000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,140800
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,191000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,GCC,241000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,329000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,0,Import,476000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,0,Import,325000
+toyota,Crown,Sedan,2023,Hybrid,0,Import,186000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,120000
+toyota,Crown,Sedan,2023,Hybrid,0,GCC,176000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,396000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,GCC,220000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,167000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,130000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,250000
+toyota,Crown,Sedan,2023,Hybrid,0,Import,239000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,325000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,Import,122000
+toyota,Fortuner,SUV/Crossover,2023,Diesel,0,GCC,151000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,375000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,230000
+toyota,bZ4X,SUV/Crossover,2023,Electric,0,Import,105000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,359000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,103000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,169000
+toyota,Highlander,Other,2023,Hybrid,0,GCC,162000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,84000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,175000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,170000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,119500
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,122000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,192000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,67000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,10,GCC,389000
+toyota,bZ4X,SUV/Crossover,2023,Electric,0,Import,129500
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,325000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,165000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,282000
+toyota,Yaris,Sedan,2023,Gasoline,0,GCC,56000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,120000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,90000
+toyota,Hiace,Van,2023,Diesel,0,GCC,106000
+toyota,Hiace,Van,2022,Gasoline,0,GCC,96000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,260000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,170000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,385000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,398000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,230000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,Import,165000
+toyota,Sequoia,SUV/Crossover,2022,Hybrid,0,Import,375000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,265000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,90000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,Import,200000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Diesel,0,GCC,161000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,124000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Diesel,0,GCC,160000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,127000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,142000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,325000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,Import,180000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,399000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,395000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,Import,216000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,380000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,Import,165000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,Import,192000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,0,Import,427000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,260000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,170000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,285000
+toyota,Crown,Sedan,2023,Hybrid,0,GCC,182000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,160000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,290000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,285000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,393000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,Import,230000
+toyota,RAV 4,SUV/Crossover,2022,Gasoline,0,GCC,119900
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,123200
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,319000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,412000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,73500
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,398000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,Import,145000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,147000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,187000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,62000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,350000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,Import,155000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,335000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,282000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,225000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,113000
+toyota,Sequoia,SUV/Crossover,2023,Gasoline,0,Import,372000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,129000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,117000
+toyota,Crown,Sedan,2023,Hybrid,0,Import,206000
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,0,Import,231000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,130000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,57000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,83500
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,52000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,57000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,68,Import,185000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,343000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,118500
+toyota,Crown,Sedan,2023,Hybrid,0,Import,175000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,10,Import,350000
+toyota,Tundra,SUV/Crossover,2023,Hybrid,13,Import,385000
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,5,Import,210000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,10,Import,425000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,10,Import,295000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,245000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,265000
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,0,Import,243000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,108000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,135000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,340000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,331000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,106000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,Import,145000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,235000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,230000
+toyota,Yaris,Hatchback,2023,Gasoline,0,Import,70000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,455000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,147000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,114500
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,325000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,167000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,363000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,116000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,0,Import,427000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,185000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,124500
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,121800
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,62500
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,315000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,139800
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,386000
+toyota,C-HR,Hatchback,2023,Hybrid,0,GCC,118000
+toyota,Corolla,Sedan,2022,Hybrid,21,Import,73400
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,0,Import,230000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,Import,190600
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,348000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,180000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,146500
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,315000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,391000
+toyota,Yaris,Sedan,2023,Gasoline,0,GCC,61000
+toyota,Hiace,Van,2023,Diesel,0,GCC,135500
+toyota,bZ4X,SUV/Crossover,2022,Electric,18,Import,117900
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,130000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,124000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,348000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,400000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,120000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,146500
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,149800
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,111000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,210000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,137000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,391000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,305000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,108000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,111000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,109000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,130000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,142000
+toyota,Camry,Sedan,2022,Gasoline,0,Import,129000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,363000
+toyota,Corolla,Sedan,2023,Hybrid,22,Import,77070
+toyota,bZ4X,SUV/Crossover,2022,Electric,16,Import,117900
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,147000
+toyota,Prado,SUV/Crossover,2021,Gasoline,0,GCC,175000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,199000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,375000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,134000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,168000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,103000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,239000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,152000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,315000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,385000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,224000
+toyota,Yaris,Sedan,2023,Gasoline,0,GCC,62000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,278000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,65000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,162000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,168000
+toyota,RAV 4,SUV/Crossover,2023,Hybrid,0,GCC,158000
+toyota,RAV 4,SUV/Crossover,2022,Gasoline,0,Import,100000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,262000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,110000
+toyota,RAV 4,SUV/Crossover,2023,Hybrid,0,GCC,124000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,332000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,108500
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,408000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,85000
+toyota,Hiace,Van,2023,Diesel,0,Import,116000
+toyota,Land Cruiser Hard Top,Other,2023,Gasoline,0,GCC,135000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,146000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,191000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,85000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,64500
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,159000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,79000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,0,Import,350000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,145000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,0,Import,385000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,130000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,117000
+toyota,Hiace,SUV/Crossover,2023,Gasoline,0,GCC,105000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,107000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,165000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,122000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,107000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,178000
+toyota,bZ4X,Sedan,2022,Electric,0,GCC,136000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,148500
+toyota,Hiace,Bus,2023,Diesel,0,GCC,145000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,285000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,84000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,99800
+toyota,Granvia,Van,2023,Gasoline,0,GCC,209000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,118000
+toyota,Hiace,Bus,2023,Diesel,0,GCC,120000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,167000
+toyota,Corolla,Sedan,2023,Hybrid,0,Import,72000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,163000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,410000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,345000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,105000
+toyota,Hiace,Van,2023,Gasoline,0,GCC,114000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,95000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,109000
+toyota,RAV 4,SUV/Crossover,2023,Hybrid,0,GCC,159000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,123000
+toyota,Avalon,Sedan,2022,Gasoline,0,Import,138000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,70000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,67000
+toyota,Land Cruiser Pickup,Pick Up Truck,2021,Gasoline,0,GCC,130000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,69000
+toyota,Land Cruiser Hard Top,Other,2023,Diesel,0,GCC,165000
+toyota,Land Cruiser,Pick Up Truck,2023,Gasoline,0,GCC,137000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,160000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,103000
+toyota,Coaster,Bus,2023,Diesel,0,GCC,188000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,156000
+toyota,Raize,Hatchback,2023,Gasoline,0,GCC,74000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,10,Import,323840
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,8,Import,323800
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,163000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,190000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,63000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,102000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,64400
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,320000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,395000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,56000
+toyota,Hilux,Pick Up Truck,2022,Diesel,28,Import,123200
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,128000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,67000
+toyota,Land Cruiser,SUV/Crossover,2020,Diesel,0,GCC,295000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,139000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,86000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,105000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,175000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,111000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,60000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,151000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,123000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,163000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,106000
+toyota,RAV 4,SUV/Crossover,2022,Gasoline,0,GCC,115500
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,74800
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,55000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,108000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,122000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,164000
+toyota,RAV 4,SUV/Crossover,2023,Hybrid,0,GCC,131000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,61000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,62,Import,285000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,15,Import,275000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,222000
+toyota,Highlander,SUV/Crossover,2022,Hybrid,0,GCC,159000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,106000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,108000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,148000
+toyota,Prado,SUV/Crossover,2022,Diesel,0,Import,205000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,64500
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,111500
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,253000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,399000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,280000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,144500
+toyota,Highlander,SUV/Crossover,2022,Gasoline,0,Import,200000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,169900
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,0,Import,241000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,130000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,Import,181000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,379000
+toyota,Avalon,Sedan,2022,Hybrid,0,Import,150000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,190000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,125000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,188000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,129000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,120000
+toyota,Land Cruiser Hard Top,Other,2023,Diesel,0,GCC,155000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,114000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,475000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,320000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,100000
+toyota,Prado,SUV/Crossover,2022,Diesel,0,GCC,212000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,380000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,106000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,121000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,Import,112000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,119000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,Import,172000
+toyota,bZ4X,Other,2022,Electric,0,GCC,120000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,GCC,165000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,107000
+toyota,Veloz,SUV/Crossover,2023,Gasoline,0,GCC,83000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,223000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,326000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,120000
+toyota,Land Cruiser Hard Top,Other,2023,Gasoline,0,GCC,142000
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,0,Import,242000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,153000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,175000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,112000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,63000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,125000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,Import,202000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,132500
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,120000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,106000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,175000
+toyota,bZ4X,SUV/Crossover,2023,Electric,0,Import,117000
+toyota,Coaster,Bus,2022,Diesel,0,GCC,190000
+toyota,C-HR,SUV/Crossover,2021,Electric,0,Import,105000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,125000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,130500
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,398000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,395000
+toyota,Avalon,Sedan,2022,Gasoline,0,Import,150000
+toyota,Fortuner,SUV/Crossover,2023,Diesel,0,GCC,150000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,100000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,108000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,123000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,GCC,187000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Gasoline,0,GCC,145000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Gasoline,0,GCC,126000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,120000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,109000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,175000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,64000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,333000
+toyota,Land Cruiser Pickup,Pick Up Truck,2021,Gasoline,0,GCC,128000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,255000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,188000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,335000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,106000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,310000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,315000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,149000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,360000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,430000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,163000
+toyota,Lite-Ace,Van,2022,Gasoline,0,GCC,62000
+toyota,Rush,Van,2023,Gasoline,0,GCC,58000
+toyota,Crown,Sedan,2023,Hybrid,0,GCC,177000
+toyota,Hiace,Van,2023,Diesel,0,GCC,95000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,220000
+toyota,Hiace,Van,2023,Diesel,0,GCC,138000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,405000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,88000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,65000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,55000
+toyota,FJ Cruiser,Sedan,2023,Gasoline,0,GCC,165000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,155000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,124000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,137000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,115000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,404000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,247000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,127500
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,418500
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,162000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,271000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,125000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,425000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,125000
+toyota,Fortuner,SUV/Crossover,2022,Diesel,0,GCC,123000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,110000
+toyota,Corolla Cross,SUV/Crossover,2023,Gasoline,0,GCC,110000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,160000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,112000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,319000
+toyota,FJ Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,165000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,122000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,100000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,405000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,155000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,114000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,129000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,320000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,365000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,128000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,165000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,140000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,170000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,387000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,279000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,101000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,98000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,77000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,91000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,139000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,147000
+toyota,Hiace,Van,2021,Diesel,0,Import,109000
+toyota,Hiace,Van,2022,Gasoline,0,GCC,107000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,20,Import,255000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,170000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,22,Import,255000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,68,Import,425000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,GCC,255000
+toyota,bZ4X,SUV/Crossover,2023,Electric,0,Import,129000
+toyota,bZ4X,SUV/Crossover,2023,Electric,0,Import,113000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,0,Import,272000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,224500
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,0,Import,443000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,155000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,118000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,394000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,138000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,399000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,191000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,20,GCC,425000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,120000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,145000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,142000
+toyota,Hiace,Van,2022,Diesel,0,Import,102000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,364900
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,108000
+toyota,Hilux,Pick Up Truck,2021,Diesel,0,GCC,105000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2022,Gasoline,0,GCC,175000
+toyota,Hilux,Pick Up Truck,2021,Gasoline,0,GCC,136000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,128000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,27,Import,200000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,287000
+toyota,Highlander,SUV/Crossover,2022,Gasoline,0,Import,235000
+toyota,Avalon,Sedan,2021,Hybrid,25,Import,125000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,18,Import,219000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,43,Import,350000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,91,Import,350000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,4,GCC,345000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,20,Import,305000
+toyota,Izoa,SUV/Crossover,2022,Electric,8,Import,102000
+toyota,Lite-Ace,Van,2023,Gasoline,49,GCC,70000
+toyota,Corolla,Sedan,2022,Hybrid,12,Import,69000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,212000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,190000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,285000
+toyota,Corolla Cross,SUV/Crossover,2023,Gasoline,0,GCC,99000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,21,Import,399999
+toyota,Tundra,Pick Up Truck,2023,Gasoline,16,Import,254999
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,4,GCC,345000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,140000
+toyota,Corolla,Sedan,2023,Gasoline,0,Import,62000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,387000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,410000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,146000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,102000
+toyota,Prado,SUV/Crossover,2022,Diesel,0,Import,236500
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,Import,207000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,185000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,360000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,121000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,330000
+toyota,Yaris Cross,SUV/Crossover,2022,Gasoline,0,Import,81000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,132000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,103000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,105000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,105000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,93000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,111000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,63000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,148000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,218000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,258000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,124000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,359000
+toyota,Veloz,SUV/Crossover,2023,Gasoline,0,GCC,92000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,250000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,135000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,385000
+toyota,C-HR,SUV/Crossover,2022,Gasoline,0,Import,90000
+toyota,C-HR,SUV/Crossover,2022,Gasoline,0,Import,104000
+toyota,C-HR,SUV/Crossover,2022,Gasoline,0,Import,85000
+toyota,Yaris Cross,SUV/Crossover,2022,Gasoline,0,Import,76000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,172000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,112000
+toyota,Yaris,Hatchback,2022,Gasoline,0,Import,75000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,79000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,125000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,255000
+toyota,Tacoma,Pick Up Truck,2023,Gasoline,0,GCC,176000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,165000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,281000
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,17,Import,212000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,12,Import,300000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,256000
+toyota,Tacoma,Pick Up Truck,2023,Gasoline,0,Import,189000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,Import,225000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Diesel,0,GCC,149800
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,265000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,122000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,130000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,126000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,385000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,112000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,105000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,83000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,113000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,92000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,389000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,99900
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,185000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,124500
+toyota,Camry,Sedan,2023,Gasoline,0,Import,112000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,210000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,103000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,346000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,350000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,380000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,Import,267000
+toyota,Lite-Ace,Van,2023,Gasoline,0,GCC,60000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,302000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,266000
+toyota,Hiace,Van,2023,Diesel,0,GCC,116000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,64000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,91000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,120500
+toyota,Corolla Cross,Hatchback,2023,Hybrid,0,Import,156000
+toyota,Fortuner,SUV/Crossover,2022,Diesel,0,GCC,125000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,124500
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,129000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,275000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,279000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,69000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,379000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,163000
+toyota,Yaris,Hatchback,2023,Gasoline,0,Import,199000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,320000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,340000
+toyota,Yaris,Sedan,2023,Gasoline,0,GCC,59800
+toyota,Hiace,Van,2023,Diesel,0,Import,122000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,310000
+toyota,Tundra,Pick Up Truck,2022,Hybrid,0,Import,360000
+toyota,Tundra,Pick Up Truck,2022,Hybrid,0,Import,400000
+toyota,Tundra,Pick Up Truck,2022,Hybrid,0,Import,340000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,Import,155000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,289000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,70000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,61000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,62500
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,68500
+toyota,Hiace,Bus,2023,Diesel,0,GCC,121999
+toyota,Hiace,Van,2022,Gasoline,0,GCC,135000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,139800
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Raize,Hatchback,2023,Gasoline,0,GCC,68500
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,99800
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,245000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,92500
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,74000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,26,Import,335000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,123800
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,92000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,109000
+toyota,Lite-Ace,Van,2023,Gasoline,0,GCC,55000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,159000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,138000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,129000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,435000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,66000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,70000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,325000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,Import,138000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,365000
+toyota,Corolla Cross,Hatchback,2023,Hybrid,0,Import,139000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,312000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,289000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,Import,139000
+toyota,bZ4X,SUV/Crossover,2022,Electric,12,Import,117900
+toyota,Corolla Cross,Hatchback,2023,Hybrid,0,GCC,122000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,95000
+toyota,4-Runner,SUV/Crossover,2023,Gasoline,0,Import,228000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,165000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,359500
+toyota,Lite-Ace,Van,2023,Gasoline,0,GCC,69000
+toyota,Granvia,Bus,2023,Diesel,0,GCC,230000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,295000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,255000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,165000
+toyota,Hiace,Van,2022,Gasoline,0,GCC,122000
+toyota,Rush,SUV/Crossover,2023,Gasoline,30,GCC,62500
+toyota,Lite-Ace,Pick Up Truck,2023,Gasoline,0,GCC,63000
+toyota,Yaris,Sedan,2023,Gasoline,0,GCC,60000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,282000
+toyota,Highlander,SUV/Crossover,2022,Gasoline,0,GCC,165000
+toyota,Corolla Cross,Hatchback,2022,Hybrid,0,GCC,105000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Gasoline,0,GCC,155000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,119000
+toyota,Corolla Cross,SUV/Crossover,2022,Hybrid,0,GCC,105000
+toyota,C-HR,SUV/Crossover,2022,Gasoline,0,GCC,112000
+toyota,RAV 4,SUV/Crossover,2022,Hybrid,0,GCC,142000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,112000
+toyota,Raize,Hatchback,2022,Gasoline,0,GCC,73500
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,129000
+toyota,Lite-Ace,Van,2023,Gasoline,0,GCC,63000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,199000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,135000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,115000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,163000
+toyota,Raize,SUV/Crossover,2022,Gasoline,0,GCC,70500
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,145000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,143000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,299000
+toyota,Raize,Hatchback,2023,Gasoline,0,GCC,77000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,101500
+toyota,Corolla,Sedan,2023,Hybrid,12,Import,64900
+toyota,Corolla Cross,SUV/Crossover,2023,Gasoline,0,GCC,119000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,97000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,138000
+toyota,Rush,SUV/Crossover,2022,Gasoline,0,GCC,62500
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,103000
+toyota,Corolla Cross,SUV/Crossover,2023,Gasoline,0,GCC,99000
+toyota,RAV 4,SUV/Crossover,2022,Hybrid,0,GCC,138000
+toyota,Avalon,Sedan,2022,Gasoline,0,GCC,171000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,136000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,175000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,165000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,105000
+toyota,Prado,SUV/Crossover,2022,Diesel,0,Import,269000
+toyota,Prado,SUV/Crossover,2022,Diesel,0,Import,239000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,165000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,229000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,148000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,66000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,365000
+toyota,Raize,SUV/Crossover,2022,Gasoline,0,GCC,73500
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,159000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,146000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,183000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,138000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,392000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,92000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,180000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,168000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,350000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,370000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,390000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,392000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,0,Import,515000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Gasoline,0,GCC,167000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,320000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,260000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,380000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,270000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,159000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,93000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,63000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,63500
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,376000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,343000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,440000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,234000
+toyota,Prado,SUV/Crossover,2023,Gasoline,10,GCC,228000
+toyota,Prado,SUV/Crossover,2022,Diesel,10,GCC,227000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,172000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,372000
+toyota,Highlander,SUV/Crossover,2022,Hybrid,0,GCC,138000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,Import,350000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,240000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,171000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,410000
+toyota,Fortuner,SUV/Crossover,2022,Diesel,0,GCC,120000
+toyota,Granvia,Van,2022,Gasoline,0,GCC,252000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2021,Gasoline,0,GCC,122000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,279500
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,18,Import,409000
+toyota,Hilux,Pick Up Truck,2022,Diesel,15,Import,123000
+toyota,Hilux,Pick Up Truck,2022,Diesel,20,Import,125500
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,30,Import,371200
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,19,Import,415840
+toyota,Camry,Sedan,2023,Gasoline,11,GCC,86000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,399000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,255000
+toyota,Camry,Sedan,2023,Gasoline,43,GCC,87000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,158000
+toyota,Veloz,SUV/Crossover,2023,Gasoline,0,GCC,89000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,335000
+toyota,Corolla,Sedan,2023,Hybrid,0,Import,71000
+toyota,bZ4X,SUV/Crossover,2023,Electric,0,Import,121000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,205000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,110000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,52000
+toyota,Prado,Sedan,2022,Diesel,0,Import,259000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,Import,209000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,114000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,115000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,159000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,219000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,99000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,58000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,145000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,137000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,130000
+toyota,Lite-Ace,Pick Up Truck,2023,Gasoline,0,GCC,63000
+toyota,Lite-Ace,Van,2023,Gasoline,0,GCC,63000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,140000
+toyota,Coaster,Bus,2023,Diesel,0,GCC,197000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,107000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,115000
+toyota,Veloz,SUV/Crossover,2023,Gasoline,0,GCC,85000
+toyota,C-HR,Hatchback,2022,Gasoline,0,GCC,117500
+toyota,Raize,Hatchback,2023,Gasoline,0,GCC,74000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,385000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,GCC,380000
+toyota,Corolla,Sedan,2023,Gasoline,0,Import,60000
+toyota,Sequoia,SUV/Crossover,2023,Gasoline,0,GCC,415000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,105000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,115000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,395000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,288000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,125000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,142000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,210000
+toyota,Corolla Cross,Hatchback,2023,Hybrid,0,Import,156000
+toyota,Corolla Cross,Hatchback,2023,Hybrid,0,Import,139000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Gasoline,0,GCC,150000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,168000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,13,Import,414710
+toyota,Highlander,SUV/Crossover,2022,Hybrid,0,GCC,165000
+toyota,Highlander,SUV/Crossover,2022,Gasoline,0,GCC,165000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,107000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,320000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,101000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,79500
+toyota,Sequoia,SUV/Crossover,2023,Gasoline,0,Import,419000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,143000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,70000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,68000
+toyota,C-HR,SUV/Crossover,2022,Gasoline,0,GCC,112000
+toyota,Yaris,Sedan,2023,Gasoline,0,GCC,60000
+toyota,Camry,Sedan,2023,Hybrid,0,Import,110000
+toyota,Prado,SUV/Crossover,2020,Gasoline,41,Import,146000
+toyota,Fork lift,Other,2022,Diesel,0,GCC,80000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,198000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,69500
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,355000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,420000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,345000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,115000
+toyota,Land Cruiser Hard Top,Truck,2022,Gasoline,0,GCC,155000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,122000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,245000
+toyota,Prado,SUV/Crossover,2022,Gasoline,100,GCC,225000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,163000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,425000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,285000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,335000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,275000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,185000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,435000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,425000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,275000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,285000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,310000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,175000
+toyota,Tundra,Pick Up Truck,2023,Hybrid,0,Import,290000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,139900
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,399000
+toyota,Fortuner,SUV/Crossover,2022,Gasoline,0,GCC,145000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,365000
+toyota,FJ Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,165000
+toyota,Hiace,Van,2022,Gasoline,0,GCC,135000
+toyota,Hilux,Pick Up Truck,2021,Gasoline,0,GCC,118000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,458750
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,435000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,145000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,145000
+toyota,Fortuner,SUV/Crossover,2022,Gasoline,0,GCC,122000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2022,Gasoline,0,GCC,165000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Gasoline,0,GCC,185000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,375000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,200000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,169000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,161000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,325000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,155000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,405000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,410000
+toyota,Hilux,Pick Up Truck,2021,Diesel,0,GCC,132000
+toyota,Hilux,Pick Up Truck,2021,Diesel,0,GCC,155000
+toyota,Hilux,Pick Up Truck,2021,Gasoline,0,GCC,112000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2022,Gasoline,0,GCC,175000
+toyota,Prado,SUV/Crossover,2021,Gasoline,0,GCC,215000
+toyota,Land Cruiser Pickup,Pick Up Truck,2021,Gasoline,0,GCC,165000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2021,Diesel,0,GCC,185000
+toyota,Land Cruiser Pickup,Pick Up Truck,2021,Gasoline,0,GCC,134500
+toyota,Hilux,Pick Up Truck,2021,Gasoline,0,GCC,132000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,39,Import,215000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,45,Import,305000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,70000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,115000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,290000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,99000
+toyota,Fork lift,Truck,2022,Diesel,0,GCC,89000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,GCC,145000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,145000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,117000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,210000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,103000
+toyota,Rush,SUV/Crossover,2022,Gasoline,0,GCC,61000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,159500
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,66000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,61000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,279000
+toyota,Fork lift,Other,2022,Diesel,0,Import,89000
+toyota,Fork lift,Other,2022,Diesel,0,Import,102000
+toyota,Camry,Sedan,2022,Hybrid,0,Import,133000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,112000
+toyota,Highlander,SUV/Crossover,2022,Gasoline,0,GCC,175000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,102000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,136000
+toyota,Lite-Ace,Van,2023,Gasoline,0,GCC,63000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,302000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,117000
+toyota,RAV 4,SUV/Crossover,2022,Hybrid,0,GCC,129000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,378000
+toyota,C-HR,SUV/Crossover,2023,Hybrid,0,GCC,119500
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,126000
+toyota,Prado,SUV/Crossover,2023,Diesel,0,Import,190000
+toyota,Hiace,Van,2023,Gasoline,0,GCC,118000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,375000
+toyota,Camry,Sedan,2022,Gasoline,0,Import,90000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,130000
+toyota,Fortuner,SUV/Crossover,2023,Diesel,0,GCC,149000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,285000
+toyota,Coaster,Bus,2017,Diesel,0,Import,160000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2020,Diesel,15,Import,146000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2019,Diesel,35,Import,168000
+toyota,Corolla Cross,Hatchback,2023,Gasoline,0,GCC,96000
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,105000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,385000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,290000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,259000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,110000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,127000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,98000
+toyota,RAV 4,SUV/Crossover,2023,Hybrid,0,GCC,132000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,132000
+toyota,Granvia,Van,2023,Gasoline,0,GCC,212000
+toyota,Raize,Hatchback,2023,Gasoline,0,Import,65000
+toyota,Land Cruiser Hard Top,Other,2023,Diesel,0,Import,178000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,116000
+toyota,Hiace,Bus,2023,Diesel,0,GCC,126000
+toyota,Land Cruiser Hard Top,Other,2023,Diesel,0,Import,183000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,165000
+toyota,Yaris,Sedan,2022,Gasoline,0,GCC,62500
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,334000
+toyota,Raize,SUV/Crossover,2022,Gasoline,0,GCC,65000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,123000
+toyota,Hiace,Bus,2022,Diesel,0,Import,120000
+toyota,Granvia,Van,2023,Gasoline,0,Import,222000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,105000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,185000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,99000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,70000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,270000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,155000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,121000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,125000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,150000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,166000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,299000
+toyota,Land Cruiser,Other,2022,Gasoline,0,GCC,310000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,149000
+toyota,Corolla Cross,SUV/Crossover,2023,Gasoline,0,GCC,96000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,114500
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,139500
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,390000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,125000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,330000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,GCC,225000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,123000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,62000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,120000
+toyota,Hilux,Pick Up Truck,2021,Gasoline,0,GCC,78000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,111000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,187000
+toyota,RAV 4,SUV/Crossover,2023,Hybrid,0,GCC,133000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,166000
+toyota,Prado,Sedan,2023,Gasoline,0,GCC,173000
+toyota,Highlander,SUV/Crossover,2023,Gasoline,0,Import,206000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,140000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,303000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,110000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,68000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,188000
+toyota,Land Cruiser,SUV/Crossover,2023,Gasoline,0,GCC,400000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,132000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,133500
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,Import,365000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,103000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,95000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,175000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,167500
+toyota,Hilux,Truck,2023,Diesel,0,GCC,110000
+toyota,Corolla,Sedan,2023,Hybrid,0,Import,74500
+toyota,Camry,Sedan,2023,Gasoline,0,Import,98000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,96000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,349000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,121500
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,153000
+toyota,Sequoia,SUV/Crossover,2023,Gasoline,0,Import,385000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,338000
+toyota,Camry,Sedan,2023,Gasoline,0,Import,89000
+toyota,Sequoia,SUV/Crossover,2023,Gasoline,0,GCC,395000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,96000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,119500
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,96000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,165000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,117000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,252000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,400000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,175000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Diesel,0,GCC,170000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Gasoline,0,GCC,135000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,145000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,155000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,Import,153000
+toyota,Highlander,SUV/Crossover,2023,Hybrid,0,GCC,152500
+toyota,Avalon,Sedan,2022,Gasoline,0,GCC,172000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,110500
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,132000
+toyota,FJ Cruiser,SUV/Crossover,2023,Gasoline,0,Import,180000
+toyota,Land Cruiser,SUV/Crossover,2023,Diesel,0,Import,389000
+toyota,Avalon,Sedan,2022,Gasoline,0,GCC,149000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,106500
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,101500
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,102000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,359000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,122000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,127000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,104500
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,120000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,177000
+toyota,Yaris,Sedan,2022,Gasoline,0,GCC,56000
+toyota,Corolla,Sedan,2022,Hybrid,0,Import,72000
+toyota,Corolla,Sedan,2022,Gasoline,27,Import,65000
+toyota,Fortuner,SUV/Crossover,2022,Gasoline,0,Import,117000
+toyota,Fortuner,SUV/Crossover,2023,Diesel,0,GCC,135000
+toyota,Yaris,Sedan,2014,Gasoline,0,GCC,24090
+toyota,Hilux,Pick Up Truck,2021,Diesel,0,Import,143000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,126500
+toyota,Hilux,Pick Up Truck,2023,Gasoline,0,GCC,155000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2023,Gasoline,0,GCC,142000
+toyota,Camry,Sedan,2022,Hybrid,0,Import,142000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,118000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,155000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,140000
+toyota,Tundra,Pick Up Truck,2023,Gasoline,0,Import,275000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,122000
+toyota,Land Cruiser Hard Top,SUV/Crossover,2022,Diesel,0,Import,175700
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,124000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,190000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,365000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Gasoline,0,GCC,149000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,Import,95000
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,157000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2023,Gasoline,0,GCC,136000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,Import,66000
+toyota,Camry,Sedan,2023,Gasoline,0,GCC,113000
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,GCC,114000
+toyota,Hilux,Pick Up Truck,2023,Diesel,0,GCC,106000
+toyota,Land Cruiser Pickup,Pick Up Truck,2023,Diesel,0,GCC,139000
+toyota,Avalon,Sedan,2021,Hybrid,75,Import,124900
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,Import,393000
+toyota,RAV 4,Hatchback,2023,Gasoline,0,GCC,107000
+toyota,C-HR,SUV/Crossover,2022,Gasoline,0,Import,115000
+toyota,RAV 4,SUV/Crossover,2023,Gasoline,0,GCC,107000
+toyota,Alphard,Van,2023,Gasoline,15,Import,485000
+toyota,Hilux,Pick Up Truck,2019,Diesel,77,Import,80000
+toyota,bZ4X,SUV/Crossover,2022,Electric,0,Import,165000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,400000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,380000
+toyota,RAV 4,SUV/Crossover,2022,Gasoline,0,GCC,121000
+toyota,Land Cruiser Hard Top,Pick Up Truck,2022,Diesel,0,GCC,151000
+toyota,Hilux,Pick Up Truck,2022,Gasoline,0,GCC,117000
+toyota,C-HR,Hatchback,2022,Gasoline,0,GCC,112000
+toyota,Camry,Sedan,2022,Gasoline,0,GCC,115000
+toyota,Raize,SUV/Crossover,2023,Gasoline,0,GCC,67000
+toyota,Highlander,SUV/Crossover,2022,Hybrid,0,GCC,205000
+toyota,Camry,Sedan,2022,Hybrid,0,GCC,117000
+toyota,RAV 4,SUV/Crossover,2022,Gasoline,0,GCC,127000
+toyota,Camry,Sedan,2023,Hybrid,0,GCC,117000
+toyota,Dyna,Truck,2020,Diesel,0,GCC,95000
+toyota,Corolla,Sedan,2022,Gasoline,0,Import,63500
+toyota,Corolla Cross,SUV/Crossover,2023,Hybrid,0,Import,139000
+toyota,Corolla,SUV/Crossover,2022,Gasoline,0,GCC,72000
+toyota,RAV 4,SUV/Crossover,2022,Hybrid,40,Import,89000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,315000
+toyota,Land Cruiser Pickup,Pick Up Truck,2021,Gasoline,0,GCC,139000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,330000
+toyota,Dyna,Truck,2020,Diesel,0,GCC,85000
+toyota,Rush,SUV/Crossover,2023,Gasoline,0,GCC,69000
+toyota,Coaster,Bus,2023,Diesel,0,GCC,199000
+toyota,Hilux,Pick Up Truck,2022,Diesel,30,Import,101000
+toyota,Yaris,Sedan,2022,Gasoline,0,GCC,60000
+toyota,Corolla,Sedan,2023,Gasoline,0,GCC,68000
+toyota,Land Cruiser,SUV/Crossover,2022,Diesel,0,GCC,330000
+toyota,Prado,SUV/Crossover,2023,Gasoline,0,GCC,174500
+toyota,Land Cruiser Pickup,Pick Up Truck,2022,Diesel,0,GCC,140000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,329000
+toyota,Tundra,Pick Up Truck,2022,Gasoline,0,Import,210000
+toyota,Hilux,Pick Up Truck,2020,Gasoline,0,GCC,104500
+toyota,Land Cruiser Hard Top,SUV/Crossover,2021,Diesel,0,GCC,172000
+toyota,Corolla,Sedan,2022,Gasoline,0,GCC,67000
+toyota,Land Cruiser,SUV/Crossover,2022,Gasoline,0,GCC,350000
+toyota,Land Cruiser Pickup,Pick Up Truck,2021,Diesel,0,GCC,172500
+toyota,RAV 4,SUV/Crossover,2021,Gasoline,0,Import,118000
+toyota,Prado,SUV/Crossover,2021,Gasoline,0,Import,173000
+toyota,Prado,Sedan,2021,Diesel,0,Import,176000
+toyota,Sequoia,SUV/Crossover,2023,Hybrid,0,Import,415000
+toyota,Hilux,Pick Up Truck,2022,Diesel,0,GCC,98000
+toyota,Fortuner,SUV/Crossover,2023,Gasoline,0,GCC,120000
+toyota,Sequoia,SUV/Crossover,2023,Gasoline,0,Import,349000
+toyota,Hiace,Van,2021,Diesel,0,Import,129000
+toyota,Prado,SUV/Crossover,2022,Gasoline,0,Import,200000
+benz,S 500,Sedan,2023,Gasoline,0,GCC,689000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,GCC,1750000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,959000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,855000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,1095000
+benz,EQS 580,Sedan,2022,Electric,0,GCC,569000
+benz,GLE 63 AMG,Coupe,2023,Gasoline,0,Import,570000
+benz,GLS 600,SUV/Crossover,2023,Gasoline,0,Import,850000
+benz,GLC 250,SUV/Crossover,2023,Gasoline,0,GCC,349000
+benz,S580 Maybach,Sedan,2022,Gasoline,0,Import,845000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,863000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1690000
+benz,AMG GT,Coupe,2021,Gasoline,32,Import,1488888
+benz,GLS600 Maybach,SUV/Crossover,2022,Gasoline,0,Import,888888
+benz,AMG GT,Coupe,2021,Gasoline,0,Import,1488888
+benz,S680 Maybach,Sedan,2023,Gasoline,0,Import,1480000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,870000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1248000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1148000
+benz,G 63 AMG,SUV/Crossover,2021,Gasoline,0,GCC,1298000
+benz,S680 Maybach,Sedan,2022,Gasoline,0,Import,888888
+benz,V 250,Van,2022,Gasoline,0,GCC,535000
+benz,C 200,Sedan,2023,Hybrid,0,Import,253000
+benz,CLA 200,Coupe,2023,Gasoline,0,Import,195000
+benz,V 250,Van,2022,Gasoline,0,GCC,535000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,870000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,57,GCC,999000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1029000
+benz,AMG GT,Coupe,2022,Gasoline,0,Import,1750000
+benz,S 450,Sedan,2023,Gasoline,0,GCC,600000
+benz,G 800,SUV/Crossover,2023,Gasoline,0,Import,1800000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,0,GCC,475000
+benz,A 200,Sedan,2023,Gasoline,0,GCC,215000
+benz,G 800,SUV/Crossover,2023,Gasoline,0,Import,1750000
+benz,V 250,Van,2023,Gasoline,0,GCC,275000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,899000
+benz,CLA 200,Sedan,2023,Gasoline,0,Import,180000
+benz,A 200,Hatchback,2022,Gasoline,100,GCC,174780
+benz,V 300,Van,2022,Diesel,0,Import,477500
+benz,E200 Coupe,Coupe,2023,Gasoline,0,GCC,309000
+benz,EQS 580,Sedan,2022,Electric,0,GCC,590000
+benz,CLA 35 AMG,Sedan,2023,Gasoline,0,Import,240000
+benz,S 580,Sedan,2023,Gasoline,15,Import,765000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,100,GCC,995000
+benz,S 580,Sedan,2023,Gasoline,0,Import,577000
+benz,GLE 350,SUV/Crossover,2023,Gasoline,12,Import,356000
+benz,GLE 450 AMG,SUV/Crossover,2023,Gasoline,55,Import,407000
+benz,V 250,Van,2023,Gasoline,10,GCC,321000
+benz,GLE 450 AMG,SUV/Crossover,2023,Gasoline,10,Import,382000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,24,Import,995000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,25,Import,980000
+benz,C 300,Sedan,2023,Gasoline,15,Import,259000
+benz,C 180,Sedan,2023,Gasoline,18,Import,236000
+benz,E 300,Sedan,2021,Gasoline,78,GCC,270000
+benz,S 500,Sedan,2023,Gasoline,0,GCC,569000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,0,GCC,475000
+benz,C 300,Sedan,2023,Gasoline,0,GCC,270000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,0,GCC,470000
+benz,EQS 450,Sedan,2022,Electric,0,Import,460000
+benz,S 580,Sedan,2023,Gasoline,0,Import,690000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1730000
+benz,G 63 AMG,SUV/Crossover,2021,Gasoline,0,Import,1650000
+benz,S 400,Sedan,2023,Diesel,0,Import,635000
+benz,C 300 Coupe,Sedan,2022,Gasoline,0,Import,355000
+benz,A 200,Hatchback,2023,Gasoline,0,Import,199000
+benz,EQA 250,SUV/Crossover,2022,Electric,0,Import,180000
+benz,EQE 350,Sedan,2023,Electric,0,Import,335000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1020000
+benz,C 200,Sedan,2023,Gasoline,0,GCC,255000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,899000
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,Import,456789
+benz,GLS600 Maybach,SUV/Crossover,2021,Gasoline,0,Import,777777
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,GCC,455000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,Import,1120000
+benz,CLA 250,Coupe,2023,Gasoline,30,GCC,240000
+benz,C 300,Sedan,2023,Gasoline,0,Import,260000
+benz,E 300,Sedan,2021,Gasoline,0,Import,305000
+benz,S680 Maybach,Sedan,2022,Gasoline,70,Import,1065000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,Import,999000
+benz,S 500,Sedan,2023,Gasoline,0,GCC,565000
+benz,S 580,Sedan,2022,Gasoline,0,Import,768000
+benz,GLS 63,SUV/Crossover,2023,Gasoline,0,Import,1280000
+benz,GLS 600,SUV/Crossover,2021,Gasoline,0,Import,1390000
+benz,E200 Coupe,Coupe,2023,Gasoline,0,Import,269000
+benz,S 680,Sedan,2022,Gasoline,0,GCC,1290000
+benz,AMG GT,Coupe,2021,Gasoline,0,GCC,2148000
+benz,S 450,Sedan,2023,Gasoline,93,GCC,619000
+benz,AMG GT 63,Sedan,2023,Hybrid,43,GCC,999000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1058000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1188000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,22,Import,930000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,17,GCC,990000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,20,GCC,955000
+benz,AMG GT 53,Sedan,2023,Gasoline,0,Import,770000
+benz,GLC 300,SUV/Crossover,2023,Gasoline,0,Import,278000
+benz,GLE 53,SUV/Crossover,2022,Gasoline,0,GCC,520000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1618000
+benz,S 580,Sedan,2023,Gasoline,0,Import,665000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,32,Import,1100000
+benz,GLS600 Maybach,SUV/Crossover,2022,Gasoline,37,GCC,1145000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,GCC,320000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,870000
+benz,S 500,Sedan,2022,Gasoline,0,Import,520000
+benz,CLA 250,Sedan,2023,Gasoline,0,GCC,210000
+benz,S680 Maybach,Sedan,2022,Gasoline,54,Import,1060000
+benz,GLC 300,SUV/Crossover,2023,Gasoline,0,Import,289000
+benz,CLA 200,Sedan,2023,Gasoline,11,Import,161000
+benz,S 580,SUV/Crossover,2023,Gasoline,48,Import,749999
+benz,CLA 35 AMG,Sedan,2022,Gasoline,0,Import,239000
+benz,S 680,Sedan,2022,Gasoline,0,Import,1250000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,286000
+benz,A 200,Hatchback,2022,Gasoline,10,GCC,145000
+benz,EQS 580,Sedan,2022,Electric,36,GCC,599000
+benz,SL 63 AMG,Convertible,2022,Gasoline,9,Import,899000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,86,Import,940000
+benz,C 200,Sedan,2023,Gasoline,0,Import,255000
+benz,S 450,Sedan,2023,Gasoline,0,GCC,645000
+benz,GLC 300,SUV/Crossover,2021,Gasoline,0,Import,230000
+benz,C 300,Sedan,2023,Gasoline,52,Import,259000
+benz,A 35 AMG,Sedan,2022,Gasoline,0,GCC,279000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,60,Import,1070000
+benz,GLC 300,SUV/Crossover,2022,Gasoline,0,Import,230000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,70,Import,980000
+benz,S 500,Sedan,2022,Gasoline,0,GCC,640000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,980000
+benz,S680 Maybach,Sedan,2022,Gasoline,0,Import,1100000
+benz,GLC 300,SUV/Crossover,2022,Gasoline,0,Import,235000
+benz,C 200,Sedan,2022,Gasoline,0,Import,235000
+benz,GLE 400,SUV/Crossover,2023,Diesel,0,Import,449000
+benz,C 200,Sedan,2022,Gasoline,0,Import,230000
+benz,V 250,Van,2022,Gasoline,0,GCC,265000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,0,Import,450000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,940000
+benz,A 200,Hatchback,2023,Gasoline,0,Import,160000
+benz,GLE 450,SUV/Crossover,2023,Gasoline,0,GCC,389000
+benz,A 200,Sedan,2023,Gasoline,0,GCC,189000
+benz,CLA 200,Sedan,2023,Gasoline,0,Import,195000
+benz,EQB 300,SUV/Crossover,2022,Electric,0,Import,210000
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,GCC,530000
+benz,EQB 350,SUV/Crossover,2022,Electric,0,Import,222000
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,GCC,495000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,39,GCC,1050000
+benz,EQE 350,Sedan,2022,Electric,0,Import,269000
+benz,CLA 45 AMG,Sedan,2023,Gasoline,0,Import,265000
+benz,V 250,Van,2022,Gasoline,0,GCC,390000
+benz,GLE 400,SUV/Crossover,2022,Diesel,0,Import,390000
+benz,G 500,SUV/Crossover,2023,Gasoline,0,Import,745000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,0,Import,471000
+benz,E 450,Sedan,2023,Gasoline,0,Import,350000
+benz,CLA 200,Sedan,2023,Gasoline,0,Import,182000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,909000
+benz,G 800,SUV/Crossover,2022,Gasoline,43,Import,1600000
+benz,S680 Maybach,Sedan,2023,Gasoline,16,Import,1190000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1430000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,1380000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,GCC,1700000
+benz,GLS 600,SUV/Crossover,2023,Gasoline,0,GCC,950000
+benz,C 63 AMG,Sedan,2016,Gasoline,0,GCC,330000
+benz,EQC 400,SUV/Crossover,2022,Electric,0,GCC,399300
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,GCC,485000
+benz,S580 Maybach,Sedan,2023,Gasoline,0,GCC,1420000
+benz,A 200,SUV/Crossover,2023,Gasoline,0,GCC,198000
+benz,S680 Maybach,Sedan,2022,Gasoline,35,Import,1065000
+benz,C 200,Sedan,2022,Gasoline,0,Import,205000
+benz,A 180,Hatchback,2023,Gasoline,0,Import,150000
+benz,S 500,Sedan,2023,Gasoline,0,GCC,669000
+benz,S 500,Sedan,2022,Gasoline,0,Import,600000
+benz,S 400,Sedan,2023,Diesel,0,Import,580000
+benz,A 45 AMG,Hatchback,2022,Electric,0,Import,320000
+benz,EQE 350,Sedan,2023,Electric,0,Import,290000
+benz,C 200,Sedan,2023,Gasoline,0,Import,235000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,3298000
+benz,S580 Maybach,Sedan,2022,Gasoline,0,GCC,929000
+benz,EQS 580,Sedan,2022,Electric,0,Import,569000
+benz,S 580,Sedan,2023,Gasoline,0,Import,590000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1040000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,1950000
+benz,S 500,Sedan,2023,Gasoline,0,GCC,640000
+benz,GLS 600,SUV/Crossover,2023,Gasoline,100,Import,1775000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,1800000
+benz,S680 Maybach,Sedan,2022,Gasoline,100,Import,1850000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,1275000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,100,Import,1215000
+benz,S500 Maybach,Sedan,2023,Gasoline,100,Import,1500000
+benz,GLS600 Maybach,SUV/Crossover,2023,Gasoline,100,Import,1700000
+benz,GLS600 Maybach,SUV/Crossover,2023,Gasoline,100,Import,1750000
+benz,GLE 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,1825000
+benz,GLS 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,2025000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,3185000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,2785000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,2470000
+benz,S 450,Sedan,2023,Gasoline,0,Import,534000
+benz,EQS 53 AMG,Sedan,2023,Electric,0,Import,620000
+benz,S 500,Sedan,2023,Gasoline,0,Import,595000
+benz,GLS600 Maybach,SUV/Crossover,2023,Gasoline,0,GCC,985000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1065000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,Import,1059000
+benz,S680 Maybach,Sedan,2022,Gasoline,50,GCC,1350000
+benz,CLA 250,Sedan,2023,Gasoline,0,GCC,240000
+benz,A 200,Sedan,2023,Gasoline,0,GCC,195000
+benz,G 500,SUV/Crossover,2002,Gasoline,0,GCC,108000
+benz,A 200,Sedan,2023,Gasoline,0,GCC,197000
+benz,A 200,Sedan,2023,Gasoline,0,GCC,235000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,985000
+benz,AMG GT,Coupe,2021,Gasoline,25,Import,1980000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,Import,1290000
+benz,S580 Maybach,Sedan,2022,Gasoline,33,Import,869000
+benz,S 500,Sedan,2022,Gasoline,91,GCC,639980
+benz,GLS 600,SUV/Crossover,2023,Gasoline,100,Import,1650000
+benz,AMG GT 63,Sedan,2022,Gasoline,100,Import,1080000
+benz,GLS 600,SUV/Crossover,2022,Gasoline,100,Import,1550000
+benz,AMG GT 63,Sedan,2022,Gasoline,100,Import,1150000
+benz,G 63 AMG 4X4²,SUV/Crossover,2023,Gasoline,100,Import,1800000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,100,Import,2600000
+benz,Sprinter,Van,2022,Diesel,0,Import,375000
+benz,GLS600 Maybach,SUV/Crossover,2022,Gasoline,35,GCC,1145000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,80,Import,940000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,12,Import,980000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,48,GCC,945000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,18,Import,980000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,20,GCC,955000
+benz,G 63 AMG 4X4²,SUV/Crossover,2022,Gasoline,0,GCC,2198000
+benz,AMG GT,Coupe,2022,Gasoline,0,Import,1898000
+benz,SL 63 AMG,Convertible,2022,Gasoline,0,Import,938000
+benz,SL 63 AMG,Other,2023,Gasoline,0,Import,780000
+benz,G 63 AMG 4X4²,SUV/Crossover,2023,Gasoline,0,GCC,2200000
+benz,GLS 600,SUV/Crossover,2021,Gasoline,0,Import,1099000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1198000
+benz,G 500,SUV/Crossover,2023,Gasoline,0,Import,725000
+benz,S 580,Sedan,2023,Gasoline,0,Import,695000
+benz,S 400,Sedan,2023,Diesel,0,Import,635000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,998000
+benz,SL 63 AMG,Convertible,2022,Gasoline,0,Import,735000
+benz,C 300,Sedan,2022,Gasoline,0,Import,360000
+benz,180,Van,2023,Gasoline,0,Import,149000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,925000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,910000
+benz,S 580,Sedan,2023,Gasoline,0,Import,695000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,18,Import,1095000
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,GCC,429000
+benz,C 200,Sedan,2023,Gasoline,0,GCC,249000
+benz,GLE 350 AMG,SUV/Crossover,2023,Gasoline,12,Import,356000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,GCC,319000
+benz,GLE 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,595000
+benz,GLE 450 AMG,SUV/Crossover,2023,Gasoline,0,GCC,409000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,285000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,19,Import,980000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,50,Import,1399998
+benz,V 250,Van,2023,Gasoline,10,GCC,321000
+benz,G 500,SUV/Crossover,2022,Gasoline,89,GCC,769000
+benz,EQE 350,Sedan,2022,Electric,0,GCC,445000
+benz,V 250,Van,2022,Gasoline,0,GCC,465000
+benz,GLC 300,SUV/Crossover,2023,Gasoline,0,Import,259000
+benz,GLC 300,Coupe,2023,Gasoline,0,Import,259000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,99,Import,1449999
+benz,S 580,Sedan,2023,Gasoline,0,Import,710000
+benz,S680 Maybach,Sedan,2022,Gasoline,0,Import,1065000
+benz,CLA 200,Coupe,2023,Gasoline,0,Import,182000
+benz,A 35 AMG,Sedan,2023,Gasoline,0,Import,229000
+benz,GLE 450 AMG,Coupe,2023,Gasoline,0,Import,407000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1059000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,10,GCC,799999
+benz,AMG GT,Coupe,2022,Gasoline,0,Import,1750000
+benz,C 200,Sedan,2023,Gasoline,23,GCC,289000
+benz,G 63 AMG 4X4²,SUV/Crossover,2022,Gasoline,28,Import,1699000
+benz,SL43,Convertible,2022,Gasoline,28,Import,699000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,1750000
+benz,C 300 Coupe,Coupe,2022,Gasoline,43,Import,184999
+benz,Viano,Van,2023,Gasoline,28,GCC,459000
+benz,S 580,Sedan,2023,Gasoline,12,Import,765000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,58,GCC,1375000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,23,GCC,1039000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,915000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,68,Import,1599000
+benz,G 63 AMG 4X4²,SUV/Crossover,2023,Gasoline,0,Import,945000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,278000
+benz,S 500,Sedan,2022,Gasoline,0,GCC,590000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,235000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,275000
+benz,C 200,Sedan,2023,Gasoline,0,GCC,285000
+benz,A 200 AMG,Sedan,2023,Gasoline,0,GCC,197000
+benz,EQS 580,Sedan,2022,Electric,0,GCC,589000
+benz,C 200 Coupe,Coupe,2023,Gasoline,0,GCC,279000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,GCC,319000
+benz,G 63 AMG 4X4²,SUV/Crossover,2023,Gasoline,0,Import,924000
+benz,A 200,Hatchback,2022,Gasoline,0,GCC,196000
+benz,G 500,SUV/Crossover,2023,Gasoline,0,Import,730000
+benz,GLC 300,SUV/Crossover,2022,Gasoline,0,Import,249000
+benz,C 200,Sedan,2023,Gasoline,0,GCC,279000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,1070000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,76,GCC,980000
+benz,GLS600 Maybach,SUV/Crossover,2023,Gasoline,21,Import,1199000
+benz,SL 63 AMG,Convertible,2023,Gasoline,73,Import,1599000
+benz,Viano,Van,2023,Gasoline,26,GCC,459000
+benz,GLS 600,SUV/Crossover,2023,Gasoline,85,GCC,980000
+benz,GLE 450 AMG,SUV/Crossover,2023,Gasoline,0,Import,410000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,950000
+benz,GLS 600,SUV/Crossover,2023,Hybrid,30,Import,799999
+benz,C 63 Coupe,Coupe,2022,Gasoline,50,Import,365000
+benz,S 500,Sedan,2021,Gasoline,0,Import,625000
+benz,G 500,SUV/Crossover,2023,Gasoline,0,Import,695000
+benz,GLS 600,SUV/Crossover,2023,Gasoline,31,GCC,990000
+benz,SL 63 AMG,Convertible,2022,Gasoline,72,GCC,1100000
+benz,G 63 AMG 4X4²,SUV/Crossover,2022,Gasoline,39,GCC,2199000
+benz,G 63 AMG 4X4²,SUV/Crossover,2022,Gasoline,40,GCC,2199000
+benz,G 800,SUV/Crossover,2022,Gasoline,99,Import,1429000
+benz,S 580,Sedan,2023,Gasoline,60,Import,799998
+benz,C 180,Sedan,2023,Gasoline,20,Import,236000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,970000
+benz,E 300,Sedan,2022,Hybrid,0,GCC,289000
+benz,C 200,Sedan,2023,Gasoline,68,GCC,270000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1060000
+benz,S580 Maybach,Sedan,2022,Gasoline,0,Import,785000
+benz,EQB 350,SUV/Crossover,2022,Electric,0,Import,219000
+benz,S 580,Sedan,2022,Gasoline,0,Import,649000
+benz,S 580,Sedan,2022,Gasoline,100,GCC,803230
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,900000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1150000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,870000
+benz,G 63 AMG,Convertible,2022,Gasoline,0,Import,970000
+benz,G 63 AMG,Coupe,2022,Gasoline,0,Import,999000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1050000
+benz,GLA 35 AMG,Hatchback,2022,Gasoline,25,GCC,279000
+benz,G 63 AMG 4X4²,SUV/Crossover,2023,Gasoline,25,Import,2049000
+benz,Sprinter,Van,2022,Diesel,0,GCC,995000
+benz,GLS 450,SUV/Crossover,2023,Gasoline,0,GCC,480000
+benz,GLS600 Maybach,SUV/Crossover,2023,Gasoline,50,Import,1650000
+benz,C 200,Sedan,2023,Gasoline,0,Import,265000
+benz,G 800,SUV/Crossover,2023,Gasoline,94,GCC,1650000
+benz,Sprinter,Bus,2021,Diesel,0,GCC,842000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,290000
+benz,A 35 AMG,Sedan,2022,Gasoline,0,GCC,235000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,925000
+benz,CLA 250,Sedan,2023,Gasoline,0,GCC,239000
+benz,V 250,Van,2023,Gasoline,0,GCC,310000
+benz,S 580,Sedan,2022,Gasoline,0,Import,579000
+benz,S 580,Sedan,2023,Gasoline,0,Import,599000
+benz,E 300,Sedan,2022,Hybrid,0,Import,289000
+benz,S680 Maybach,Sedan,2023,Gasoline,0,GCC,1185000
+benz,GLC 200,SUV/Crossover,2023,Gasoline,0,Import,292000
+benz,EQB 300,SUV/Crossover,2022,Electric,0,Import,219000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,50,Import,1050000
+benz,GLE 63 AMG,SUV/Crossover,2023,Gasoline,50,Import,1095000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,50,Import,1850000
+benz,GLE 400,SUV/Crossover,2023,Diesel,0,Import,479000
+benz,CLA 250,Sedan,2020,Gasoline,0,Import,190000
+benz,G 63 AMG 4X4²,SUV/Crossover,2023,Gasoline,0,Import,919000
+benz,Vito,Van,2023,Diesel,0,Import,390000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,999000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,980000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,15,Import,980000
+benz,SL 63 AMG,Convertible,2022,Gasoline,30,Import,1125000
+benz,A 200,Sedan,2022,Gasoline,0,Import,189000
+benz,A 200,SUV/Crossover,2022,Gasoline,0,Import,189000
+benz,A 200,Hatchback,2023,Gasoline,0,Import,175000
+benz,C 300,Sedan,2023,Gasoline,0,Import,249000
+benz,SL 63 AMG,Convertible,2022,Gasoline,0,Import,1090000
+benz,CLA 250,Sedan,2023,Gasoline,0,Import,195000
+benz,CLA 200,Sedan,2023,Gasoline,0,Import,189000
+benz,C 200,Sedan,2023,Gasoline,0,Import,239000
+benz,V 250,Van,2023,Gasoline,0,Import,260000
+benz,GLE 450 AMG,SUV/Crossover,2023,Gasoline,0,Import,415000
+benz,GLC 200,SUV/Crossover,2023,Hybrid,50,Import,320000
+benz,C 200,Sedan,2023,Gasoline,0,GCC,345000
+benz,V Class Maybach,Van,2018,Gasoline,0,GCC,219999
+benz,SL 63 AMG,Convertible,2022,Gasoline,0,GCC,870000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,36,GCC,945000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,879000
+benz,GLA 200,SUV/Crossover,2023,Gasoline,0,Import,190000
+benz,E 43 AMG,Sedan,2017,Gasoline,0,Import,160000
+benz,V 250,Van,2023,Gasoline,0,GCC,275000
+benz,S 580,Sedan,2023,Gasoline,0,Import,665000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1149000
+benz,GLC 300,SUV/Crossover,2021,Gasoline,0,GCC,295000
+benz,A 45 AMG,Hatchback,2022,Gasoline,0,GCC,299000
+benz,A 35 AMG,Sedan,2022,Gasoline,0,GCC,235000
+benz,GLE 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,585000
+benz,GLE 53,SUV/Crossover,2023,Gasoline,0,Import,445000
+benz,S 580,Sedan,2023,Gasoline,0,Import,685000
+benz,AMG GT,Coupe,2022,Gasoline,0,Import,1690000
+benz,S 560,Sedan,2020,Gasoline,70,Import,285000
+benz,S580 Maybach,Sedan,2022,Gasoline,0,Import,920000
+benz,GLC 300,SUV/Crossover,2022,Gasoline,0,Import,205000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,GCC,1550000
+benz,E 200,Sedan,2022,Gasoline,0,GCC,275000
+benz,V 250,Van,2023,Gasoline,0,GCC,890000
+benz,250,Pick Up Truck,2023,Gasoline,0,GCC,235000
+benz,EQE 350,Sedan,2022,Electric,0,Import,289000
+benz,GLC 300,SUV/Crossover,2022,Gasoline,0,Import,230000
+benz,GLS600 Maybach,SUV/Crossover,2023,Gasoline,0,GCC,1020000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1399000
+benz,V 250,Van,2023,Gasoline,0,GCC,635000
+benz,Viano,Van,2023,Diesel,15,Import,385000
+benz,GLS600 Maybach,SUV/Crossover,2022,Diesel,0,Import,880000
+benz,EQS 580,SUV/Crossover,2023,Electric,15,Import,850000
+benz,SL 63 AMG,Convertible,2023,Gasoline,0,Import,795000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,830000
+benz,V 250,Van,2023,Gasoline,0,GCC,680000
+benz,G 63 AMG,SUV/Crossover,2023,Gasoline,0,Import,970000
+benz,G 500,SUV/Crossover,2022,Gasoline,0,GCC,770000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1500000
+benz,CLA 200,Sedan,2022,Gasoline,0,Import,170000
+benz,G 63 AMG 4X4²,SUV/Crossover,2022,Gasoline,0,GCC,1900000
+benz,G 63 AMG,Pick Up Truck,2014,Gasoline,0,GCC,4225000
+benz,X 250d,Pick Up Truck,2021,Diesel,0,Import,480000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1599000
+benz,GLE 53,Coupe,2023,Gasoline,0,Import,435000
+benz,EQS 450,SUV/Crossover,2023,Electric,15,Import,645000
+benz,S 680,Sedan,2022,Gasoline,0,Import,1350000
+benz,EQS 580,Sedan,2022,Electric,0,Import,678950
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,Import,1000010
+benz,S 580,Sedan,2022,Gasoline,0,Import,999000
+benz,G 63 AMG,SUV/Crossover,2022,Gasoline,0,GCC,1550000
+benz,S 580,Sedan,2022,Gasoline,0,Import,579000
+benz,GLC 300,SUV/Crossover,2022,Gasoline,0,GCC,260000
+benz,V 300,Van,2023,Diesel,10,Import,335000
+hyundai,Sonata,Sedan,2023,Gasoline,0,GCC,113000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,128500
+hyundai,Accent,Sedan,2023,Gasoline,0,GCC,50000
+hyundai,County,Bus,2020,Diesel,0,GCC,160000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,96000
+hyundai,Tucson,SUV/Crossover,2022,Diesel,0,Import,120000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,GCC,77000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,GCC,76000
+hyundai,Grand i10,Hatchback,2023,Gasoline,0,GCC,48950
+hyundai,Elantra,Sedan,2022,Gasoline,0,GCC,67500
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,GCC,93000
+hyundai,Staria,Van,2023,Gasoline,0,GCC,106000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,125000
+hyundai,Grand i10,Hatchback,2023,Gasoline,0,GCC,52000
+hyundai,Creta,SUV/Crossover,2024,Gasoline,0,Import,78000
+hyundai,Staria,Van,2022,Diesel,0,GCC,236000
+hyundai,Accent,Sedan,2023,Gasoline,0,GCC,51000
+hyundai,Tucson,Sedan,2022,Gasoline,0,Import,88000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,96000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,Import,144000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,Import,144000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,Import,115000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,115000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,124500
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,85000
+hyundai,Accent,Sedan,2023,Gasoline,0,GCC,53000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,127000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,103000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,120000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,119500
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,GCC,92000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,0,GCC,125000
+hyundai,Palisade,SUV/Crossover,2023,Gasoline,0,GCC,180000
+hyundai,Staria,Van,2023,Gasoline,10,GCC,120000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,Import,86000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,Import,93000
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,Import,90000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,GCC,72000
+hyundai,Santa Fe,SUV/Crossover,2023,Gasoline,10,GCC,120000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,10,GCC,86000
+hyundai,Creta,Other,2023,Gasoline,13,GCC,77000
+hyundai,HD 65,Van,2022,Diesel,18,GCC,127000
+hyundai,Grand Creta,SUV/Crossover,2023,Gasoline,0,GCC,82500
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,GCC,76500
+hyundai,Accent,Sedan,2023,Gasoline,0,GCC,52000
+hyundai,Kona,SUV/Crossover,2023,Gasoline,0,Import,73000
+hyundai,Accent,Sedan,2023,Gasoline,12,GCC,48000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,13,GCC,72000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,GCC,86000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,16,GCC,79500
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,Import,86000
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,Import,96000
+hyundai,Accent,Sedan,2023,Gasoline,0,GCC,48000
+hyundai,Accent,Sedan,2022,Gasoline,0,GCC,48000
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,89000
+hyundai,County,Truck,2020,Diesel,0,Import,45000
+hyundai,Tucson,Hatchback,2022,Gasoline,0,GCC,106000
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,GCC,106000
+hyundai,Elantra,Sedan,2022,Gasoline,0,Import,65999
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,Import,68000
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,Import,89999
+hyundai,Sonata,Sedan,2022,Gasoline,0,GCC,67000
+hyundai,Elantra,Sedan,2023,Gasoline,0,GCC,63000
+hyundai,H 100,Truck,2023,Diesel,0,Import,59000
+hyundai,Grand Creta,SUV/Crossover,2023,Gasoline,19,GCC,92000
+hyundai,Creta,SUV/Crossover,2024,Gasoline,0,GCC,74500
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,77500
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,Import,78000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,Import,69500
+hyundai,Palisade,SUV/Crossover,2023,Gasoline,0,GCC,167500
+hyundai,Palisade,SUV/Crossover,2020,Gasoline,0,Import,115000
+hyundai,Creta,SUV/Crossover,2023,Gasoline,0,GCC,73500
+hyundai,Santa Fe,SUV/Crossover,2022,Gasoline,0,GCC,126000
+hyundai,Tucson,SUV/Crossover,2022,Gasoline,0,Import,95999
+hyundai,Tucson,SUV/Crossover,2023,Gasoline,0,GCC,97000
+hyundai,Elantra,Sedan,2021,Gasoline,0,GCC,70000
+kia,Sportage,SUV/Crossover,2022,Gasoline,0,Import,108000
+kia,Sportage,SUV/Crossover,2022,Gasoline,0,Import,119000
+kia,Picanto,Hatchback,2023,Gasoline,0,GCC,41000
+kia,Cerato,Sedan,2023,Gasoline,0,GCC,60000
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,Import,71000
+kia,Picanto,Hatchback,2023,Gasoline,0,Import,42000
+kia,Picanto,Hatchback,2023,Gasoline,0,GCC,43000
+kia,Sportage,SUV/Crossover,2022,Gasoline,0,GCC,108000
+kia,Sorento,SUV/Crossover,2023,Gasoline,0,Import,133000
+kia,Sportage,SUV/Crossover,2023,Gasoline,0,Import,108000
+kia,K3,Sedan,2022,Gasoline,0,Import,63500
+kia,Carens,Van,2023,Gasoline,0,GCC,112000
+kia,Sorento,SUV/Crossover,2023,Gasoline,0,GCC,135000
+kia,Sportage,SUV/Crossover,2023,Gasoline,0,GCC,105000
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,GCC,72500
+kia,Sportage,SUV/Crossover,2022,Gasoline,0,Import,99000
+kia,Sportage,Other,2023,Gasoline,0,GCC,100000
+kia,Sportage,SUV/Crossover,2022,Gasoline,0,Import,101000
+kia,K2700,Truck,2023,Diesel,0,GCC,53500
+kia,Telluride,SUV/Crossover,2023,Gasoline,0,GCC,166000
+kia,Pegas,Sedan,2023,Gasoline,0,GCC,41000
+kia,Cerato,Sedan,2023,Gasoline,0,GCC,60000
+kia,Sportage,SUV/Crossover,2023,Gasoline,12,GCC,109000
+kia,Sportage,Hatchback,2023,Gasoline,0,GCC,90000
+kia,Sportage,SUV/Crossover,2022,Gasoline,0,GCC,101000
+kia,Cerato,Sedan,2023,Gasoline,0,GCC,75000
+kia,Sportage,SUV/Crossover,2023,Gasoline,0,Import,108500
+kia,Sportage,SUV/Crossover,2023,Gasoline,0,GCC,108000
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,GCC,76000
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,Import,76000
+kia,K3,Sedan,2022,Electric,0,Import,84500
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,Import,73000
+kia,Telluride,SUV/Crossover,2022,Gasoline,0,Import,157000
+kia,Sorento,SUV/Crossover,2023,Gasoline,0,Import,139000
+kia,Picanto,Hatchback,2023,Gasoline,0,Import,43000
+kia,K3,Sedan,2022,Electric,0,Import,95999
+kia,K4000,Pick Up Truck,2023,Diesel,0,GCC,64500
+kia,Optima,Sedan,2018,Gasoline,70,Import,31500
+kia,Sorento,SUV/Crossover,2023,Gasoline,0,GCC,149000
+kia,K5,Sedan,2023,Gasoline,0,GCC,99000
+kia,Cerato,Sedan,2023,Gasoline,0,Import,67000
+kia,Sorento,SUV/Crossover,2023,Gasoline,0,GCC,129000
+kia,Sportage,SUV/Crossover,2024,Gasoline,0,Import,89500
+kia,Picanto,Hatchback,2023,Gasoline,0,Import,40500
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,Import,75000
+kia,Pegas,Sedan,2023,Gasoline,0,Import,40000
+kia,Picanto,Hatchback,2023,Gasoline,0,GCC,42000
+kia,Carnival,Van,2023,Gasoline,10,Import,170000
+kia,Sportage,SUV/Crossover,2023,Diesel,0,Import,126000
+kia,Picanto,Hatchback,2023,Gasoline,0,Import,45000
+kia,Picanto,Hatchback,2023,Gasoline,0,Import,40000
+kia,K5,Sedan,2023,Gasoline,0,GCC,87000
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,Import,78500
+kia,Seltos,SUV/Crossover,2023,Gasoline,0,GCC,77777
+kia,Picanto,Hatchback,2022,Gasoline,0,Import,44000
+kia,Sportage,Hatchback,2023,Gasoline,0,GCC,129000
+kia,Cadenza,Sedan,2018,Gasoline,0,GCC,83000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,650000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,GCC,280000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,679000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,GCC,215000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,650000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,685000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,312000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,725000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,700000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,600000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,525000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,261500
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,660000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,645000
+lexus,ES 350,Sedan,2023,Gasoline,0,Import,191000
+lexus,RX 500h,Sedan,2023,Hybrid,0,Import,327000
+lexus,GX 460,SUV/Crossover,2023,Gasoline,0,GCC,302000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,10,Import,548000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,640000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,575000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,522000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,588000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,580000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,710000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,730000
+lexus,LX 500,SUV/Crossover,2023,Diesel,0,GCC,625000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,GCC,295000
+lexus,LX 500,SUV/Crossover,2023,Diesel,0,GCC,630000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,616000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,169000
+lexus,UX 200,SUV/Crossover,2022,Gasoline,0,GCC,165000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,238000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,610000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,635000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,545000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,660000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,575000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,570000
+lexus,LX 500,SUV/Crossover,2022,Diesel,0,Import,565000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,241000
+lexus,NX 350,SUV/Crossover,2023,Gasoline,0,Import,240000
+lexus,ES 300,Sedan,2023,Hybrid,0,Import,181800
+lexus,RX 350,SUV/Crossover,2023,Gasoline,14,Import,282000
+lexus,NX 350,SUV/Crossover,2023,Gasoline,42,Import,226000
+lexus,NX 350,SUV/Crossover,2023,Gasoline,70,Import,225000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,575000
+lexus,ES 300,Sedan,2023,Gasoline,0,GCC,233000
+lexus,ES 350,Sedan,2023,Gasoline,0,GCC,221000
+lexus,UX 200,SUV/Crossover,2023,Gasoline,0,GCC,175000
+lexus,RX 350,SUV/Crossover,2023,Hybrid,0,Import,273000
+lexus,GX 460,SUV/Crossover,2023,Gasoline,0,Import,274000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,625000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,600000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,196000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,14,GCC,630000
+lexus,ES 200,Sedan,2022,Gasoline,0,Import,151200
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,735000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,330000
+lexus,IS 350,Sedan,2023,Gasoline,0,GCC,223000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,575000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,635000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,710000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,635000
+lexus,LS 600,SUV/Crossover,2023,Gasoline,0,GCC,528000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,598000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,645000
+lexus,RX 500h,SUV/Crossover,2023,Gasoline,0,Import,299000
+lexus,ES 300,Sedan,2023,Gasoline,0,GCC,175000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,599000
+lexus,ES 300,Sedan,2023,Hybrid,0,Import,181800
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,60,Import,325000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,GCC,285000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,635000
+lexus,ES 350,Sedan,2022,Gasoline,0,GCC,178000
+lexus,GX 460,SUV/Crossover,2023,Gasoline,0,GCC,243000
+lexus,LX 500,SUV/Crossover,2022,Diesel,0,Import,665000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,665000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,175000
+lexus,NX 350,SUV/Crossover,2022,Gasoline,0,GCC,186500
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,Import,660000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,610000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,540000
+lexus,LX 570,SUV/Crossover,2021,Gasoline,0,GCC,659000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,580000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,625000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,605000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,705000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,755000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,241500
+lexus,ES 350,Sedan,2023,Gasoline,0,GCC,197000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,680000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,279000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,560000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,GCC,225000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,570000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,692000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,630000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,635000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,625000
+lexus,ES 350,Sedan,2023,Gasoline,0,GCC,174500
+lexus,LX 600,SUV/Crossover,2023,Gasoline,19,Import,548320
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,525000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,Import,794000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,Import,792000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,525000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,581000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,540000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,300000
+lexus,NX 350,SUV/Crossover,2023,Gasoline,0,Import,240000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,670000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,600000
+lexus,ES 350,Sedan,2022,Gasoline,0,Import,199000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,219000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,235000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,229000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,299000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,310000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,320000
+lexus,ES 300,Sedan,2023,Hybrid,0,Import,199000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,194000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,264000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,15,Import,225000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,24,Import,262000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,18,Import,263000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,300000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,590000
+lexus,ES 350,Sedan,2022,Gasoline,0,GCC,209000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,15,Import,264000
+lexus,ES 350,Sedan,2023,Gasoline,22,Import,238000
+lexus,ES 300,Sedan,2023,Gasoline,15,GCC,190000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,260000
+lexus,LX 500,SUV/Crossover,2022,Diesel,0,Import,565000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,326500
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,326000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,257000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,14,Import,282000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,184000
+lexus,LX 570,SUV/Crossover,2021,Gasoline,0,GCC,620000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,311000
+lexus,ES 300,Sedan,2023,Hybrid,15,Import,190000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,18,Import,290000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,630000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,605000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,645000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,590000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,260000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,260000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,630000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,635000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,638000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,17,Import,280000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,193800
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,635000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,630000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,555000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,625000
+lexus,ES 300,Sedan,2023,Gasoline,0,GCC,193000
+lexus,ES 350,Sedan,2022,Gasoline,0,GCC,183000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,555000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,729000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,10,GCC,650000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,650000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,369000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,25,GCC,645000
+lexus,ES 350,Sedan,2022,Gasoline,0,Import,189000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,619000
+lexus,LS 500,Sedan,2022,Hybrid,0,Import,361000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,GCC,310000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,310000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,765000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,229000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,235000
+lexus,ES 350,Sedan,2022,Gasoline,0,Import,199000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,156000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,GCC,212000
+lexus,ES 350,Sedan,2022,Gasoline,0,GCC,185000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,194000
+lexus,RX 350,Hatchback,2022,Gasoline,0,GCC,212000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,695000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,70,Import,460000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,Import,615000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,260000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,510000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,595000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,535000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,660000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,790000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,675000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,710000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,595000
+lexus,RX 350,Hatchback,2022,Gasoline,0,Import,211000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,670000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,615000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,0,Import,369000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,195000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,530000
+lexus,LX 500,SUV/Crossover,2022,Diesel,13,Import,516000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,765000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,555000
+lexus,ES 350,Sedan,2022,Gasoline,0,GCC,195000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,178000
+lexus,ES 350,Sedan,2022,Gasoline,0,GCC,185000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,GCC,330000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,GCC,210000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,135000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,755000
+lexus,ES 300,Sedan,2023,Gasoline,0,GCC,195000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,639000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,685000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,695000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,675000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,820000
+lexus,LX 570,SUV/Crossover,2021,Gasoline,0,GCC,650000
+lexus,RX 450,SUV/Crossover,2022,Hybrid,0,GCC,240000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,183000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,655000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,660000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,285000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,524000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,258000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,GCC,280000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,630000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,618000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,575000
+lexus,NX 350,SUV/Crossover,2022,Gasoline,0,Import,240000
+lexus,ES 300,Sedan,2023,Hybrid,0,GCC,185000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,589000
+lexus,NX 350,SUV/Crossover,2023,Gasoline,0,Import,212000
+lexus,RX 450,SUV/Crossover,2022,Hybrid,0,Import,200000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,Import,520000
+lexus,NX 350,SUV/Crossover,2022,Gasoline,0,Import,238000
+lexus,LX 500,SUV/Crossover,2022,Diesel,0,Import,600000
+lexus,ES 350,Sedan,2023,Gasoline,0,GCC,207000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,639000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,760000
+lexus,ES 300,Sedan,2022,Hybrid,10,Import,205000
+lexus,RX 500h,SUV/Crossover,2023,Hybrid,10,Import,370000
+lexus,NX 350,SUV/Crossover,2023,Gasoline,0,Import,239000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,0,Import,309000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,10,Import,300000
+lexus,RX 350,SUV/Crossover,2023,Gasoline,15,Import,328000
+lexus,LX 600,SUV/Crossover,2023,Gasoline,0,GCC,625000
+lexus,LX 600,SUV/Crossover,2022,Gasoline,0,GCC,730000
+lexus,ES 300,Sedan,2022,Hybrid,0,Import,200000
+lexus,NX 350,SUV/Crossover,2022,Gasoline,0,GCC,233000
+lexus,IS 300,Sedan,2022,Gasoline,0,GCC,178000
+lexus,ES 350,Sedan,2023,Gasoline,0,GCC,210000
+lexus,NX 350,SUV/Crossover,2022,Gasoline,0,GCC,195000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,229000
+lexus,RX 350,SUV/Crossover,2022,Gasoline,0,Import,219000
+lexus,GX 460,SUV/Crossover,2023,Gasoline,0,GCC,249000
+mitsubishi,Outlander,SUV/Crossover,2022,Gasoline,0,GCC,61000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,105000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,104000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,Import,98800
+mitsubishi,L200,Pick Up Truck,2023,Gasoline,0,Import,65800
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,Import,79800
+mitsubishi,Pajero,SUV/Crossover,2020,Gasoline,0,GCC,110000
+mitsubishi,L200,Pick Up Truck,2023,Gasoline,0,GCC,66000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,75000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,87000
+mitsubishi,Canter,Truck,2023,Diesel,0,GCC,83000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,90000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,105000
+mitsubishi,L200,Pick Up Truck,2023,Gasoline,0,Import,65800
+mitsubishi,L200,Pick Up Truck,2023,Gasoline,0,GCC,68000
+mitsubishi,Montero,SUV/Crossover,2023,Gasoline,0,GCC,123000
+mitsubishi,Outlander,SUV/Crossover,2023,Gasoline,0,GCC,109000
+mitsubishi,Outlander,SUV/Crossover,2023,Gasoline,0,GCC,123000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,84000
+mitsubishi,Montero,SUV/Crossover,2023,Gasoline,0,GCC,123300
+mitsubishi,Montero,SUV/Crossover,2023,Gasoline,0,GCC,108000
+mitsubishi,Airtrek,SUV/Crossover,2022,Electric,0,Import,77000
+mitsubishi,Airtrek,SUV/Crossover,2022,Electric,0,Import,87000
+mitsubishi,Eclipse Cross,SUV/Crossover,2023,Gasoline,0,GCC,86000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,77000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,83000
+mitsubishi,L200,Pick Up Truck,2022,Gasoline,0,GCC,55500
+mitsubishi,L200,Pick Up Truck,2023,Gasoline,0,Import,65000
+mitsubishi,Outlander,SUV/Crossover,2023,Gasoline,0,GCC,86000
+mitsubishi,Xpander,SUV/Crossover,2023,Gasoline,0,GCC,61000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,82000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,Import,75000
+mitsubishi,Canter,Truck,2023,Diesel,0,GCC,80000
+mitsubishi,Xpander,SUV/Crossover,2023,Gasoline,0,GCC,53500
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,101500
+mitsubishi,Eclipse Cross,SUV/Crossover,2023,Gasoline,0,GCC,84000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,81000
+mitsubishi,L200,Pick Up Truck,2022,Diesel,0,Import,102000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,Import,101000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,Import,74000
+mitsubishi,L200,Hatchback,2023,Diesel,0,GCC,73000
+mitsubishi,L200,Pick Up Truck,2023,Diesel,0,GCC,73000
+mitsubishi,Attrage,Sedan,2022,Gasoline,0,Import,38800
+mitsubishi,L200,Pick Up Truck,2021,Gasoline,0,GCC,68000
+mitsubishi,Canter,Truck,2023,Diesel,0,GCC,120000
+mitsubishi,Xpander,SUV/Crossover,2023,Gasoline,0,GCC,62000
+mitsubishi,Xpander,SUV/Crossover,2023,Gasoline,0,GCC,56000
+mitsubishi,Eclipse Cross,SUV/Crossover,2023,Gasoline,0,GCC,88000
+mitsubishi,Outlander,SUV/Crossover,2023,Gasoline,0,GCC,106000
+mitsubishi,Canter,Truck,2022,Diesel,0,Import,81000
+mitsubishi,L200,Pick Up Truck,2023,Gasoline,0,GCC,102000
+mitsubishi,Airtrek,SUV/Crossover,2022,Electric,0,Import,135000
+nissan,Patrol,SUV/Crossover,2021,Gasoline,0,GCC,339000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,315000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,238000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,18,Import,283000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,Import,315000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,235000
+nissan,Patrol Super Safari,SUV/Crossover,2023,Gasoline,0,GCC,210000
+nissan,X-Trail,SUV/Crossover,2022,Gasoline,0,GCC,82000
+nissan,Patrol,SUV/Crossover,2021,Gasoline,0,GCC,255000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,240000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,272000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,235000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,259000
+nissan,Xterra,SUV/Crossover,2023,Gasoline,0,GCC,122000
+nissan,Z,Coupe,2023,Gasoline,0,GCC,255000
+nissan,Pathfinder,SUV/Crossover,2020,Gasoline,0,GCC,125000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,312000
+nissan,Navara,Pick Up Truck,2022,Diesel,0,Import,91000
+nissan,Patrol Safari,SUV/Crossover,2022,Gasoline,0,GCC,157000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,188600
+nissan,Patrol Super Safari,SUV/Crossover,2023,Gasoline,0,GCC,210000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,272500
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,210000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,275000
+nissan,X-Trail,SUV/Crossover,2023,Gasoline,0,GCC,105000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,225000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,205000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,250000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,280000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,245000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,280000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,306000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,309900
+nissan,Xterra,SUV/Crossover,2022,Gasoline,0,GCC,140000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,Import,289800
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,Import,292000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,355000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,355000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,385000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,298000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,265000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,295000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,278000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,Import,330000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,297200
+nissan,Armada,SUV/Crossover,2022,Gasoline,0,Import,215000
+nissan,Xterra,SUV/Crossover,2023,Gasoline,0,GCC,105000
+nissan,Titan,SUV/Crossover,2022,Gasoline,0,GCC,260000
+nissan,Titan,SUV/Crossover,2023,Gasoline,0,GCC,215000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,365000
+nissan,Titan,SUV/Crossover,2023,Gasoline,0,GCC,270000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,299000
+nissan,Titan,SUV/Crossover,2022,Gasoline,0,GCC,255000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,375000
+nissan,Urvan,Van,2022,Gasoline,0,GCC,79000
+nissan,Maxima,Sedan,2022,Gasoline,0,GCC,120000
+nissan,Ariya,SUV/Crossover,2022,Electric,0,Import,178000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,303000
+nissan,Patrol,SUV/Crossover,2021,Gasoline,0,GCC,260000
+nissan,Sylphy,Sedan,2022,Gasoline,0,Import,75000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,240000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,253000
+nissan,Patrol,SUV/Crossover,2023,Gasoline,0,GCC,229000
+nissan,Sunny,Sedan,2023,Gasoline,0,GCC,41000
+nissan,Sunny,Sedan,2023,Gasoline,0,Import,40500
+nissan,Patrol Pickup,Pick Up Truck,2021,Gasoline,0,GCC,111000
+nissan,Patrol,SUV/Crossover,2022,Gasoline,0,GCC,260000
+nissan,Urvan,Van,2011,Gasoline,0,Import,55000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,45250
+suzuki,Vitara,Hatchback,2023,Gasoline,0,GCC,72000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,45300
+suzuki,Jimny,SUV/Crossover,2023,Gasoline,0,GCC,98000
+suzuki,Alto,Hatchback,2023,Gasoline,0,GCC,22000
+suzuki,Swift,Hatchback,2023,Gasoline,0,GCC,36000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,Import,41800
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,33500
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,45000
+suzuki,Alto,Hatchback,2023,Gasoline,0,GCC,22000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,35000
+suzuki,Dzire,Sedan,2023,Gasoline,0,GCC,35000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,44200
+suzuki,Swift,Hatchback,2023,Gasoline,0,GCC,37000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,42800
+suzuki,Grand Vitara,SUV/Crossover,2023,Hybrid,0,GCC,88000
+suzuki,Swift,Hatchback,2023,Gasoline,0,GCC,36000
+suzuki,Swift,Hatchback,2023,Gasoline,0,GCC,35000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,46500
+suzuki,Dzire,Sedan,2023,Gasoline,0,Import,34800
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,43000
+suzuki,Baleno,Hatchback,2023,Gasoline,12,GCC,43900
+suzuki,Ertiga,Van,2023,Gasoline,0,Import,49500
+suzuki,Celerio,Hatchback,2023,Gasoline,0,Import,30800
+suzuki,Vitara,SUV/Crossover,2023,Hybrid,0,GCC,75800
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,71800
+suzuki,Dzire,Sedan,2022,Gasoline,0,GCC,33500
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,35800
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,34800
+suzuki,Dzire,Sedan,2023,Gasoline,0,Import,34800
+suzuki,EECO,Van,2023,Gasoline,0,Import,30800
+suzuki,Vitara,SUV/Crossover,2023,Gasoline,0,Import,95000
+suzuki,Swift,Sedan,2023,Gasoline,0,GCC,34500
+suzuki,EECO,Van,2023,Gasoline,0,Import,31800
+suzuki,Grand Vitara,SUV/Crossover,2023,Hybrid,0,GCC,75800
+suzuki,Baleno,Hatchback,2024,Gasoline,0,GCC,40500
+suzuki,S-Presso,Hatchback,2023,Gasoline,0,Import,28500
+suzuki,Vitara,SUV/Crossover,2023,Hybrid,0,GCC,93500
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,42500
+suzuki,Ciaz,Sedan,2024,Gasoline,0,GCC,37000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,Import,43500
+suzuki,Ertiga,Van,2023,Gasoline,0,GCC,48000
+suzuki,Vitara,Hatchback,2023,Gasoline,0,GCC,70000
+suzuki,Ertiga,SUV/Crossover,2023,Gasoline,0,GCC,48000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,35500
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,37500
+suzuki,Alto,Hatchback,2023,Gasoline,0,Import,20500
+suzuki,Carry,Truck,2023,Gasoline,0,GCC,47000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,34800
+suzuki,S-Presso,Hatchback,2023,Gasoline,0,GCC,28000
+suzuki,Celerio,Hatchback,2023,Gasoline,0,GCC,32500
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,35800
+suzuki,Ertiga,Van,2023,Gasoline,0,GCC,49000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,47000
+suzuki,Alto,Hatchback,2023,Gasoline,0,GCC,22250
+suzuki,Jimny,SUV/Crossover,2023,Gasoline,0,Import,89000
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,73000
+suzuki,Dzire,Sedan,2023,Gasoline,0,GCC,36000
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,72000
+suzuki,Carry,Truck,2023,Gasoline,0,Import,47000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,42500
+suzuki,Dzire,Sedan,2023,Gasoline,0,GCC,35000
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,72000
+suzuki,S-Presso,Hatchback,2023,Gasoline,0,GCC,28500
+suzuki,EECO,Van,2023,Gasoline,0,Import,30800
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,71800
+suzuki,Jimny,SUV/Crossover,2023,Gasoline,0,GCC,84000
+suzuki,Jimny,SUV/Crossover,2023,Gasoline,0,GCC,91000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,32500
+suzuki,Dzire,Hatchback,2023,Gasoline,0,Import,33500
+suzuki,Jimny,SUV/Crossover,2022,Gasoline,22,GCC,135000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,Import,42300
+suzuki,Grand Vitara,SUV/Crossover,2024,Hybrid,0,Import,93500
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,GCC,75000
+suzuki,Grand Vitara,SUV/Crossover,2023,Hybrid,0,GCC,77300
+suzuki,Vitara,SUV/Crossover,2023,Gasoline,0,Import,71800
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,36800
+suzuki,Vitara,SUV/Crossover,2023,Gasoline,14,GCC,65000
+suzuki,Ciaz,Sedan,2024,Gasoline,0,Import,37000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,37000
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,73800
+suzuki,Baleno,Hatchback,2023,Gasoline,0,Import,42800
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,72800
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,43500
+suzuki,Dzire,Sedan,2023,Gasoline,0,Import,37000
+suzuki,Baleno,Hatchback,2023,Gasoline,11,GCC,41500
+suzuki,S-Presso,Hatchback,2023,Gasoline,0,Import,28500
+suzuki,Vitara,SUV/Crossover,2023,Gasoline,12,GCC,65000
+suzuki,Alto,Hatchback,2023,Gasoline,0,Import,20800
+suzuki,Jimny,SUV/Crossover,2023,Gasoline,0,GCC,105000
+suzuki,Swift,Hatchback,2023,Electric,0,Import,32500
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,36250
+suzuki,GSX-R,Bike,2001,Gasoline,0,GCC,28000
+suzuki,Baleno,Hatchback,2023,Gasoline,0,Import,43000
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,Import,84499
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,34000
+suzuki,Swift,Hatchback,2023,Gasoline,0,GCC,54900
+suzuki,Alto,Hatchback,2023,Gasoline,0,Import,25500
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,36800
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,GCC,80000
+suzuki,Alto,Hatchback,2023,Gasoline,0,Import,21500
+suzuki,Baleno,Hatchback,2023,Gasoline,0,GCC,47000
+suzuki,Grand Vitara,SUV/Crossover,2023,Gasoline,0,GCC,88000
+suzuki,Swift,Hatchback,2023,Gasoline,0,Import,35000
+suzuki,Swift,Hatchback,2023,Gasoline,0,GCC,36500
+suzuki,Swift,Sedan,2023,Gasoline,0,Import,37000
+suzuki,Baleno,Hatchback,2023,Gasoline,11,Import,41500
+suzuki,Baleno,Hatchback,2023,Gasoline,13,Import,41500
+suzuki,Swift,Hatchback,2023,Gasoline,8,Import,32000
+suzuki,Ertiga,Van,2022,Gasoline,0,Import,50000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,109000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,134000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,98000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,128000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,109000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,100000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,106000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,GCC,100000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,127000
+volkswagen,ID.4,SUV/Crossover,2021,Electric,0,Import,106000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,154000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,133000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,155000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,115000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.4,Hatchback,2021,Electric,0,GCC,97000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,GCC,99000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,116000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,102000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,119000
+volkswagen,ID.4 Crozz,Hatchback,2023,Electric,0,Import,118000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,119000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,102000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,130000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,128000
+volkswagen,Polo,Hatchback,2019,Gasoline,0,Import,63000
+volkswagen,Viloran,Van,2020,Gasoline,0,Import,153000
+volkswagen,Viloran,Van,2020,Gasoline,0,Import,153000
+volkswagen,ID.6,SUV/Crossover,2022,Hybrid,0,Import,136000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,128000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,117000
+volkswagen,ID.6,Sedan,2022,Electric,0,GCC,120000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,125000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,125000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,178000
+volkswagen,ID.4,SUV/Crossover,2021,Electric,0,Import,103000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,105000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,119000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,117000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,174000
+volkswagen,Jetta,SUV/Crossover,2022,Gasoline,0,Import,74500
+volkswagen,Tiguan,SUV/Crossover,2022,Gasoline,0,Import,150000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,115000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,135000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,124000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,137000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,GCC,107000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,135000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,130000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,106000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,112000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,123000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,116000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.4 Crozz,SUV/Crossover,2021,Electric,0,Import,95000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,132000
+volkswagen,ID.4 Crozz,SUV/Crossover,2021,Electric,0,Import,100000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,135000
+volkswagen,ID.6,SUV/Crossover,2023,Electric,10,Import,175000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,127000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,GCC,148000
+volkswagen,Bora,Sedan,2022,Gasoline,0,Import,45000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,100000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,126000
+volkswagen,ID.4 Crozz,SUV/Crossover,2021,Electric,0,Import,145000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,110000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,98000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,102000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,102000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,113000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,146000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,98000
+volkswagen,Viloran,SUV/Crossover,2020,Gasoline,0,GCC,155000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,GCC,160000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,100000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,130000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,200000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,97000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,112000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,116000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,107000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,111000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,111000
+volkswagen,Multivan,Van,2023,Diesel,11,Import,265000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,149000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,106000
+volkswagen,T4 California,Van,2023,Diesel,0,Import,375000
+volkswagen,T4 California,Van,2023,Diesel,0,Import,380000
+volkswagen,Tiguan,SUV/Crossover,2022,Gasoline,0,Import,150000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,100000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,110800
+volkswagen,ID.6,SUV/Crossover,2021,Electric,0,Import,119800
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,GCC,119000
+volkswagen,ID.4 Crozz,Hatchback,2022,Electric,0,Import,108000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,66,Import,119900
+volkswagen,ID.6,Sedan,2021,Electric,0,Import,110000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,108000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,118000
+volkswagen,ID.4,SUV/Crossover,2021,Electric,0,Import,110800
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,119900
+volkswagen,Tiguan,SUV/Crossover,2022,Diesel,0,Import,219000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,112000
+volkswagen,Golf,Hatchback,2022,Gasoline,0,Import,209000
+volkswagen,Golf,Hatchback,2022,Gasoline,0,GCC,209000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,162000
+volkswagen,ID.4 Crozz,SUV/Crossover,2021,Electric,0,Import,155000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,11,Import,136000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,11,Import,111000
+volkswagen,ID.4,SUV/Crossover,2021,Electric,30,Import,109000
+volkswagen,ID.4,SUV/Crossover,2022,Gasoline,0,Import,122990
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,110000
+volkswagen,ID.6,SUV/Crossover,2022,Gasoline,0,Import,137000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,145000
+volkswagen,Golf,Hatchback,2022,Gasoline,0,Import,125000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,215000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,125000
+volkswagen,Tiguan,Hatchback,2022,Diesel,0,Import,118000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,219000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,98000
+volkswagen,Golf,Sedan,2022,Gasoline,0,GCC,110000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,GCC,199000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,122000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,140000
+volkswagen,ID.6,SUV/Crossover,2023,Electric,0,GCC,155000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,155000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,164000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,164000
+volkswagen,ID.4,SUV/Crossover,2021,Electric,0,Import,155000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,155000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,138000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,109900
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,165000
+volkswagen,ID.4,SUV/Crossover,2022,Gasoline,20,Import,115000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,100000
+volkswagen,ID.4,SUV/Crossover,2023,Electric,0,GCC,125000
+volkswagen,Santana,Sedan,2022,Gasoline,0,Import,115000
+volkswagen,Bora,Sedan,2022,Gasoline,0,Import,62000
+volkswagen,ID.4 Crozz,Sedan,2021,Electric,0,Import,55000
+volkswagen,T-ROC,SUV/Crossover,2023,Gasoline,0,GCC,107000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,138000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,120000
+volkswagen,Jetta,SUV/Crossover,2022,Gasoline,0,Import,132000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,GCC,82000
+volkswagen,ID.4,SUV/Crossover,2023,Electric,0,Import,139000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,116000
+volkswagen,ID.4 Crozz,SUV/Crossover,2023,Electric,0,Import,145000
+volkswagen,ID.4 Crozz,SUV/Crossover,2023,Electric,0,Import,127000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,127000
+volkswagen,ID.4 Crozz,SUV/Crossover,2023,Electric,0,Import,117000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,127000
+volkswagen,ID.4,SUV/Crossover,2022,Electric,0,Import,137000
+volkswagen,ID.6,Sedan,2022,Electric,0,GCC,159000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,155000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,135000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,123000
+volkswagen,ID.6,Sedan,2022,Electric,0,GCC,125000
+volkswagen,ID.6,SUV/Crossover,2023,Electric,0,Import,132000
+volkswagen,ID.6,SUV/Crossover,2021,Electric,0,Import,55000
+volkswagen,ID.6,SUV/Crossover,2021,Electric,0,Import,119800
+volkswagen,ID.4 Crozz,SUV/Crossover,2021,Electric,0,Import,127500
+volkswagen,ID.4,SUV/Crossover,2021,Electric,0,Import,111000
+volkswagen,ID.6,SUV/Crossover,2021,Electric,30,Import,111000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,127500
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,164000
+volkswagen,ID.6,SUV/Crossover,2022,Electric,0,Import,128000
+volkswagen,ID.4 Crozz,SUV/Crossover,2022,Electric,0,Import,155000
+volkswagen,ID.3,Hatchback,2022,Electric,0,Import,145000
+volkswagen,ID.4,SUV/Crossover,2022,Gasoline,0,Import,110000
+volkswagen,Multivan,Van,2023,Diesel,0,Import,145000
